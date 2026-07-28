@@ -1,0 +1,10 @@
+{
+  "name": "cap-cds-odata-sample",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^6"
+  },
+  "scripts": {
+    "start": "cds run"
+  }
+}
